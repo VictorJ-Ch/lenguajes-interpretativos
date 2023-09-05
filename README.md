@@ -16,3 +16,5 @@
 > **Principios de composición y diseño**: _Prof: Roberto Melo_ En esta materia estoy aprendiendo a usar Photoshop.
 
 > **Diseño de videojuegos**: _Prof: Hector Guerrero_ En esta materia estoy aprendiendo distintops motores gráficos, gestión de proyectos y creación de proyectos.
+
+> **Proyecto de app: _Prof: Sebastián Mejia_ En esta materia estoy aprendiendo a crear documentación, para proyectos con software especializado.
