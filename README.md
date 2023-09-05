@@ -14,3 +14,5 @@
 > **Sistemas operativos**: _Prof: Osiel Morales_ En esta materia estoy aprendiendo del uso de la computadora, su mantenimiento y demás procesos para la instalación de varios sistemas operativos, dentro de una misma computadora, igualmente aprendo de la gestión de recursos de la misma.
 
 > **Principios de composición y diseño**: _Prof: Roberto Melo_ En esta materia estoy aprendiendo a usar Photoshop.
+
+> **Diseño de videojuegos**: _Prof: Hector Guerrero_ En esta materia estoy aprendiendo distintops motores gráficos, gestión de proyectos y creación de proyectos.
