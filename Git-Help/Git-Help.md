@@ -41,6 +41,6 @@
 
 > **gity branch -d (branch)**: Para borrar la rama.
 
-> **git merche (branch)**: Para unir el trabajo de las ramas.
+> **git merge (branch)**: Para unir el trabajo de las ramas.
 
 > **git log --online**: Ver status de las ramas.
