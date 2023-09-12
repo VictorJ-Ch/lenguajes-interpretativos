@@ -18,3 +18,7 @@
 > **Diseño de videojuegos**: _Prof: Hector Guerrero_ En esta materia estoy aprendiendo distintops motores gráficos, gestión de proyectos y creación de proyectos.
 
 > **Proyecto de app: _Prof: Sebastián Mejia_ En esta materia estoy aprendiendo a crear documentación, para proyectos con software especializado.
+
+## Versiones
+
+Creando la **versión 1.0.0** de este repositorio.
