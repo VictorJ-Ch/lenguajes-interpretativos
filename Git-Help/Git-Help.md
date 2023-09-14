@@ -18,7 +18,7 @@
  13. git init
  14. git add README.md / git add .
  15. git commit - m "First commit"
- 16. gt branch -M main
+ 16. git branch -M main
  17. remote add origin (link que da el repositorio)
  18. git push -u origin main
 
